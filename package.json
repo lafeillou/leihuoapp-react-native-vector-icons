@@ -1,0 +1,46 @@
+{
+  "name": "leihuoapp-react-native-vector-icons",
+  "version": "1.0.1",
+  "description": "Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.",
+  "main": "dist/index.js",
+  "bin": {},
+  "scripts": {},
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "osx",
+    "windows",
+    "macos",
+    "ui",
+    "icon",
+    "icons",
+    "vector",
+    "retina",
+    "font"
+  ],
+  "author": {
+    "name": "Joel Arvidsson modify by lafeillou",
+    "email": "joel@oblador.se"
+  },
+  "homepage": "https://github.com/lafeillou/leihuoapp-react-native-vector-icons",
+  "bugs": {
+    "url": "https://github.com/lafeillou/leihuoapp-react-native-vector-icons/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lafeillou/leihuoapp-react-native-vector-icons.git"
+  },
+  "license": "MIT",
+  "rnpm": {
+    "assets": [
+      "Fonts"
+    ]
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
